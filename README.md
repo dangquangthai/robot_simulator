@@ -86,10 +86,12 @@ Expected output
 
     ```gem install bundler```
 
-3. Change to the app directory:
+3. Get project:
 
-    ```git clone git@github.com:dangquangthai/robot_simulator.git```
-    ```cd robot_simulator```
+    ```
+    git clone git@github.com:dangquangthai/robot_simulator.git
+    cd robot_simulator
+    ```
 
 4. Install dependencies:
 
