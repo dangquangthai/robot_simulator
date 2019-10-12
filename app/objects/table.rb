@@ -15,8 +15,6 @@ class Table
       @robot.position.y >= 0
   end
 
-  private
-
   def empty?
     @robot.nil?
   end
