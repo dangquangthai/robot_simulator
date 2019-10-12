@@ -18,12 +18,6 @@ RSpec.describe Commander do
 
       before { table.robot = robot }
 
-      specify do
-        expect {
-          subject.execute('PLACE 3,3,EAST')
-        }.not_to raise_error
-      end
-
       context 'invalid command' do
         specify do
           expect {
