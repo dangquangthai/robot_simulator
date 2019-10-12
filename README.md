@@ -80,7 +80,7 @@ Expected output
 
 1. Install ruby
     
-    ```rvm install 2.x.x```
+    ```rvm install 2.3.4``` or higher
 
 2. Install the [bundler gem](http://bundler.io/) by running:
 
