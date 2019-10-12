@@ -88,6 +88,7 @@ Expected output
 
 3. Change to the app directory:
 
+    ```git clone git@github.com:dangquangthai/robot_simulator.git```
     ```cd robot_simulator```
 
 4. Install dependencies:
